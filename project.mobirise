@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "QC/US Ram",
-    "currentPage": "html.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -54,8 +54,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": false,
-    "canonical-url": false
+    "publishChangesOnly": false
   },
   "pages": {
     "Image Quality Measurement Procedures.html": {
@@ -1597,7 +1596,7 @@
         }
       ]
     },
-    "html.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Quality Control of Ultrasound Machine",
