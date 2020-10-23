@@ -42,7 +42,7 @@
       }
     ],
     "uniqCompNum": 49,
-    "versionPublish": "4.12.3",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "modified": "2020-07-17T17:17:03.696Z",
     "favicon": "@PROJECT_PATH@/assets/images/ultrasound.png",
@@ -53,7 +53,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "canonical-url": false
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
